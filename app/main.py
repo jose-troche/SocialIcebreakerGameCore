@@ -1,1 +1,1 @@
-from api.fastapi import app
+from api import app
